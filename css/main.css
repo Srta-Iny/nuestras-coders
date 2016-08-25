@@ -1,0 +1,40 @@
+.linea{
+	width: 90px;
+	height: 3px;
+	background-color: #000;
+	margin-bottom: 10px;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+	float:left;
+	margin: 10px;
+	position:relative;
+
+}
+.texto{
+	position: absolute;
+	right:0;
+	bottom:0;
+	color: #fff;
+}
+.foto1{
+	background-image: url(../img/profile-1.png);
+}
+.foto2{
+	background-image: url(../img/profile-2.png);
+}
+.foto3{
+	background-image: url(../img/profile-3.png);
+
+}
+.foto4{
+	background-image: url(../img/profile-4.png);
+	clear:left;
+}
+.foto5{
+	background-image: url(../img/profile-5.png);
+}
+.foto6{
+	background-image: url(../img/profile-6.png);
+}
